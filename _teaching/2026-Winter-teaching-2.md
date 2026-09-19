@@ -8,12 +8,3 @@ date: 2026-01-14
 location: "Tehran, Iran"
 ---
 
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
