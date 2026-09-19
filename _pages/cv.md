@@ -12,7 +12,7 @@ redirect_from:
 You can download a full PDF version of my academic CV here: **[Download Ermia's CV (PDF)](/files/Ermia_Parsamanesh_CV.pdf)**
 
 ## Education
-* **B.Sc. in Computer Engineering**, Allameh Tabataba'i University (ATU) *(2023 – Present)*
+* **B.Sc. in Computer Engineering**, Allameh Tabataba'i University (ATU) *(2024 – Present)*
 
 ## Technical Skills
 * **Languages:** C++, Python, SQL, HTML/CSS
