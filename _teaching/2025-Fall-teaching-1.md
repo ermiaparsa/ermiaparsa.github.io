@@ -7,13 +7,3 @@ venue: "Allameh Tabataba'i University, Department of Computer"
 date: 2025-09-01
 location: "Tehran, Iran"
 ---
-
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
